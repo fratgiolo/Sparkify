@@ -12,8 +12,6 @@
 
 ## Prerequisites and Installation <a name="Prerequisites"></a>
 
-Prerequisites:
-
 The following libraries are required in order to run the project: Python, Spark, Pyspark, Pandas, Matplotlib, Seaborn
 
 

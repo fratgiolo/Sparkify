@@ -38,4 +38,4 @@ All credit to Udacity for running the nanodegree course in Data Science and prov
 We have studied the sparkify mini dataset, cleaned and analysed the dataset and we came up with 9 features to use for our models. We compared the "Support Vector Machine" (SVM) versus the "Gradient Boosting Trees" (GBT) models and chose to utilise GBT to predict churn due to its perfect accuracy and F1 score of 0.99.
 
 ## Blog <a name="Blog"></a>
-Check out my Blog post [here](https://insights.stackoverflow.com/survey) for more details about my analysis
+Check out my Blog post [here](https://medium.com/@marco.altamura88/using-pyspark-to-predict-sparkifys-users-churn-rate-5e105d7fcdc0) for more details about my analysis

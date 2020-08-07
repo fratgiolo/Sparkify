@@ -24,7 +24,7 @@ This project was made for an an Udacity Nanodegree project. The study focused on
 
 ## GitHub Repository <a name="gitlink"></a>
 
-The link to my disaster recovery project is: https://github.com/fratgiolo/Sparkify.git
+The link to my Sparkify project is: https://github.com/fratgiolo/Sparkify.git
 
 
 ## File Description <a name="files"></a>

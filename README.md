@@ -29,7 +29,7 @@ The link to my Sparkify project is: https://github.com/fratgiolo/Sparkify.git
 
 ## File Description <a name="files"></a>
 
-**Sparkify.py** : Python code containing all required code to run this project </br>
+**Sparkify.ipynb** : Python notebook containing all required code to run this project </br>
 
 ## Acknowledgements<a name="licensing"></a>
 All credit to Udacity for running the nanodegree course in Data Science and providing the input data for this project
